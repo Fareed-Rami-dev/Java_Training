@@ -1,0 +1,9 @@
+package com.jbs.service;
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+	}
+}
