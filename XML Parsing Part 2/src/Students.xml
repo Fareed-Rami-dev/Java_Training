@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="1">
+        <firstname>John</firstname>
+        <lastname>Doe</lastname>
+        <score>85</score>
+    </student>
+    <student id="2">
+        <firstname>Jane</firstname>
+        <lastname>Smith</lastname>
+        <score>92</score>
+    </student>
+    <student id="3">
+        <firstname>Michael</firstname>
+        <lastname>Johnson</lastname>
+        <score>78</score>
+    </student>
+</students>
